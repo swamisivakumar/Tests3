@@ -12,8 +12,5 @@ namespace WindowsFormsApp1.Folder1
         public F2()
         { 
             }
-
-        int X1=2032;
-        int y1=2323;
     }
 }
