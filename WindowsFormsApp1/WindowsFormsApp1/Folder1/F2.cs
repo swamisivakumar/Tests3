@@ -15,5 +15,6 @@ namespace WindowsFormsApp1.Folder1
 
         int X1=2032;
         int y1=2323;
+        int x12=2903203;
     }
 }
