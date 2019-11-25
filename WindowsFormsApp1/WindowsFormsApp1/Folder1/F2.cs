@@ -8,9 +8,9 @@ namespace WindowsFormsApp1.Folder1
 {
     class F2
     {
-        
-        Public F2()
-        {
-        }
+
+        public F2()
+        { 
+            }
     }
 }
